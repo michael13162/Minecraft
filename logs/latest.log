@@ -1,42 +1,125 @@
-[20:53:58] [Server thread/INFO]: Starting minecraft server version 1.11
-[20:53:58] [Server thread/INFO]: Loading properties
-[20:53:58] [Server thread/INFO]: Default game type: SURVIVAL
-[20:53:58] [Server thread/INFO]: Generating keypair
-[20:53:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:53:58] [Server thread/INFO]: Using default channel type
-[20:53:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:53:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:53:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:53:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:53:58] [Server thread/INFO]: Preparing level "Fall2016"
-[20:53:59] [Server thread/INFO]: Preparing start region for level 0
-[20:54:00] [Server thread/INFO]: Preparing spawn area: 20%
-[20:54:00] [Server thread/INFO]: Done (2.126s)! For help, type "help" or "?"
-[20:54:01] [Server thread/INFO]: letag[/10.95.6.201:51178] logged in with entity id 77 at (-555.7321509348643, 70.0, -161.77420454743034)
-[20:54:01] [Server thread/INFO]: letag joined the game
-[20:54:03] [Server thread/INFO]: machew22[/155.99.148.251:56100] logged in with entity id 408 at (-556.5870600854805, 70.0, -160.22557627126193)
-[20:54:03] [Server thread/INFO]: machew22 joined the game
-[20:54:06] [Server thread/INFO]: <letag> first post!
-[20:54:11] [Server thread/INFO]: KaijuCandy[/155.99.229.49:52915] logged in with entity id 616 at (-947.0337703469063, 70.0, -5.929180179073299)
-[20:54:11] [Server thread/INFO]: KaijuCandy joined the game
-[20:54:12] [Server thread/INFO]: <machew22> 2nd
-[20:54:46] [Server thread/INFO]: michael13162[/127.0.0.1:9481] logged in with entity id 1659 at (-555.5790095817822, 70.0, -162.8006311816426)
-[20:54:46] [Server thread/INFO]: michael13162 joined the game
-[21:15:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1012718ms behind, skipping 20254 tick(s)
-[21:15:04] [Server thread/INFO]: letag lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:15:05] [Server thread/INFO]: letag left the game
-[21:15:06] [Server thread/INFO]: machew22 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:15:06] [Server thread/INFO]: machew22 left the game
-[21:15:06] [Server thread/INFO]: KaijuCandy lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:15:07] [Server thread/INFO]: KaijuCandy left the game
-[21:15:07] [Server thread/INFO]: michael13162 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:15:07] [Server thread/INFO]: michael13162 left the game
-[21:15:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3885ms behind, skipping 77 tick(s)
-[21:15:27] [Server thread/INFO]: Stopping the server
-[21:15:27] [Server thread/INFO]: Stopping server
-[21:15:27] [Server thread/INFO]: Saving players
-[21:15:27] [Server thread/INFO]: Saving worlds
-[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Overworld
-[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Nether
-[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/The End
-[21:15:27] [Server Shutdown Thread/INFO]: Stopping server
+[00:00:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2132ms behind, skipping 42 tick(s)
+[00:00:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2395ms behind, skipping 47 tick(s)
+[00:00:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2617ms behind, skipping 52 tick(s)
+[00:01:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3977ms behind, skipping 79 tick(s)
+[00:01:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2500ms behind, skipping 50 tick(s)
+[00:01:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3728ms behind, skipping 74 tick(s)
+[00:02:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2036ms behind, skipping 40 tick(s)
+[00:02:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2528ms behind, skipping 50 tick(s)
+[00:02:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4038ms behind, skipping 80 tick(s)
+[00:03:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2778ms behind, skipping 55 tick(s)
+[00:03:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2075ms behind, skipping 41 tick(s)
+[00:04:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8026ms behind, skipping 160 tick(s)
+[00:04:10] [Server thread/WARN]: kusumit moved wrongly!
+[00:04:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3001ms behind, skipping 60 tick(s)
+[00:04:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5536ms behind, skipping 110 tick(s)
+[00:04:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4576ms behind, skipping 91 tick(s)
+[00:05:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7240ms behind, skipping 144 tick(s)
+[00:05:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6331ms behind, skipping 126 tick(s)
+[00:05:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3480ms behind, skipping 69 tick(s)
+[00:06:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8843ms behind, skipping 176 tick(s)
+[00:06:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4699ms behind, skipping 93 tick(s)
+[00:06:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3413ms behind, skipping 68 tick(s)
+[00:06:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3933ms behind, skipping 78 tick(s)
+[00:07:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6897ms behind, skipping 137 tick(s)
+[00:07:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8041ms behind, skipping 160 tick(s)
+[00:07:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5488ms behind, skipping 109 tick(s)
+[00:08:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3878ms behind, skipping 77 tick(s)
+[00:08:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5650ms behind, skipping 113 tick(s)
+[00:08:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4764ms behind, skipping 95 tick(s)
+[00:08:50] [Server thread/INFO]: machew22 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:08:50] [Server thread/INFO]: machew22 left the game
+[00:08:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4041ms behind, skipping 80 tick(s)
+[00:09:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7763ms behind, skipping 155 tick(s)
+[00:09:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4388ms behind, skipping 87 tick(s)
+[00:09:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2775ms behind, skipping 55 tick(s)
+[00:10:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7665ms behind, skipping 153 tick(s)
+[00:10:19] [Server thread/WARN]: letag moved too quickly! 447.0968849038967,-51.0,171.43550306825583
+[00:10:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9577ms behind, skipping 191 tick(s)
+[00:10:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3679ms behind, skipping 73 tick(s)
+[00:11:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11858ms behind, skipping 237 tick(s)
+[00:11:08] [Server thread/WARN]: letag moved too quickly! -447.236752511161,51.0,-172.37456751672426
+[00:11:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4320ms behind, skipping 86 tick(s)
+[00:11:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3833ms behind, skipping 76 tick(s)
+[00:11:41] [Server thread/INFO]: l was slain by Spider
+[00:11:47] [Server thread/INFO]: <kusumit> lol
+[00:11:49] [Server thread/INFO]: <kusumit> noopb
+[00:11:56] [Server thread/INFO]: <l> i had a pickaxe
+[00:11:59] [Server thread/INFO]: <l> a wood one
+[00:12:00] [Server thread/INFO]: <kusumit> i mean
+[00:12:03] [Server thread/INFO]: <l> and 500 cobblestone
+[00:12:04] [Server thread/INFO]: <kusumit> who dies to a spider
+[00:12:07] [Server thread/INFO]: <l> what do you expect me to do lol
+[00:13:24] [Server thread/INFO]: <l> also was at 2 hearts
+[00:13:33] [Server thread/INFO]: <l> from jumping down because lazy to build ladder
+[00:13:38] [Server thread/INFO]: <kusumit> aha
+[00:13:42] [Server thread/INFO]: <kusumit> laziness killed you
+[00:13:53] [Server thread/INFO]: <l> im fairly sure if i ran from the spider
+[00:14:00] [Server thread/INFO]: <l> an archer wouldve killed me on the way to base
+[00:14:16] [Server thread/INFO]: <kusumit> thats why you strafe left and right as you run
+[00:14:21] [Server thread/INFO]: <kusumit> helps to dodge arrows
+[00:14:43] [Server thread/INFO]: <kusumit> thats what i do every time i spawn in the desert
+[00:16:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2044ms behind, skipping 40 tick(s)
+[00:17:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[00:20:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2273ms behind, skipping 45 tick(s)
+[00:20:47] [Server thread/INFO]: michael13162 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:20:47] [Server thread/INFO]: michael13162 left the game
+[00:26:03] [Server thread/INFO]: <kusumit> hey william
+[00:26:08] [Server thread/INFO]: <l> mhm?
+[00:26:10] [Server thread/INFO]: <kusumit> can you disconnect for a sec so sam can go to bed?
+[00:26:13] [Server thread/INFO]: kusumit lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:26:13] [Server thread/INFO]: kusumit left the game
+[00:26:14] [Server thread/INFO]: l lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[00:26:14] [Server thread/INFO]: l left the game
+[00:26:16] [Server thread/INFO]: <letag> kk
+[00:26:24] [Server thread/INFO]: kusumit[/10.95.7.34:13900] logged in with entity id 416851 at (-988.8154836055531, 122.0, -1558.2003643622534)
+[00:26:24] [Server thread/INFO]: kusumit joined the game
+[00:26:25] [Server thread/INFO]: l[/10.96.67.205:24596] logged in with entity id 418042 at (-456.88319256910614, 96.0, -93.5578683746371)
+[00:26:25] [Server thread/INFO]: l joined the game
+[00:26:28] [Server thread/INFO]: <l> done?
+[00:26:31] [Server thread/INFO]: <letag> yeah
+[00:32:43] [Server thread/INFO]: kusumit has just earned the achievement [Cow Tipper]
+[00:32:57] [Server thread/INFO]: <letag> hey will
+[00:33:00] [Server thread/INFO]: <letag> watch this
+[00:33:10] [Server thread/INFO]: <l> huh?
+[00:33:12] [Server thread/INFO]: <l> wasnt watching
+[00:33:19] [Server thread/INFO]: <letag> can you see me?
+[00:33:23] [Server thread/INFO]: <l> nope
+[00:33:29] [Server thread/INFO]: <letag> oh well
+[00:34:14] [Server thread/INFO]: <l> op
+[00:38:06] [Server thread/INFO]: <l> skeletons have aimhacks...
+[00:38:10] [Server thread/INFO]: <l> im like 5 stories up
+[00:38:19] [Server thread/INFO]: <l> and the moment i mine out some cobblestone for a window
+[00:38:23] [Server thread/INFO]: <l> i get shot by an arrow
+[00:48:32] [Server thread/INFO]: l fell from a high place
+[00:48:53] [Server thread/INFO]: <kusumit> thats what happens when you try to make your tower taller than mine
+[00:50:41] [Server thread/INFO]: <l> how do i get fly hacks?
+[00:52:58] [Server thread/INFO]: l fell from a high place
+[00:57:47] [Server thread/WARN]: kusumit moved wrongly!
+[00:58:19] [Server thread/INFO]: <letag> wut
+[00:58:26] [Server thread/INFO]: <l> just testing
+[00:58:33] [Server thread/INFO]: <letag> ah
+[01:00:50] [Server thread/INFO]: l fell from a high place
+[01:01:44] [Server thread/INFO]: kusumit fell from a high place
+[01:02:26] [Server thread/INFO]: <l> i took yo shit
+[01:03:04] [Server thread/INFO]: kusumit was shot by Skeleton
+[01:06:03] [Server thread/INFO]: letag lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:06:03] [Server thread/INFO]: letag left the game
+[01:06:34] [Server thread/INFO]: <kusumit> hey william
+[01:06:37] [Server thread/INFO]: <l> mhm?
+[01:06:40] [Server thread/INFO]: <kusumit> michael's closing the stream
+[01:06:44] [Server thread/INFO]: <l> ok
+[01:07:01] [Server thread/INFO]: <kusumit> just type in chat when you're ready
+[01:07:04] [Server thread/INFO]: <l> ready
+[01:07:08] [Server thread/INFO]: kusumit lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:07:08] [Server thread/INFO]: kusumit left the game
+[01:07:23] [Server thread/INFO]: Stopping the server
+[01:07:23] [Server thread/INFO]: Stopping server
+[01:07:23] [Server thread/INFO]: Saving players
+[01:07:23] [Server thread/INFO]: l lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[01:07:23] [Server thread/INFO]: l left the game
+[01:07:23] [Server thread/INFO]: Saving worlds
+[01:07:23] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Overworld
+[01:07:23] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Nether
+[01:07:23] [Server thread/INFO]: Saving chunks for level 'Fall2016'/The End
+[01:07:24] [Server Shutdown Thread/INFO]: Stopping server
