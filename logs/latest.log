@@ -1,0 +1,42 @@
+[20:53:58] [Server thread/INFO]: Starting minecraft server version 1.11
+[20:53:58] [Server thread/INFO]: Loading properties
+[20:53:58] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:58] [Server thread/INFO]: Generating keypair
+[20:53:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:58] [Server thread/INFO]: Using default channel type
+[20:53:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:53:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:53:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:53:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:53:58] [Server thread/INFO]: Preparing level "Fall2016"
+[20:53:59] [Server thread/INFO]: Preparing start region for level 0
+[20:54:00] [Server thread/INFO]: Preparing spawn area: 20%
+[20:54:00] [Server thread/INFO]: Done (2.126s)! For help, type "help" or "?"
+[20:54:01] [Server thread/INFO]: letag[/10.95.6.201:51178] logged in with entity id 77 at (-555.7321509348643, 70.0, -161.77420454743034)
+[20:54:01] [Server thread/INFO]: letag joined the game
+[20:54:03] [Server thread/INFO]: machew22[/155.99.148.251:56100] logged in with entity id 408 at (-556.5870600854805, 70.0, -160.22557627126193)
+[20:54:03] [Server thread/INFO]: machew22 joined the game
+[20:54:06] [Server thread/INFO]: <letag> first post!
+[20:54:11] [Server thread/INFO]: KaijuCandy[/155.99.229.49:52915] logged in with entity id 616 at (-947.0337703469063, 70.0, -5.929180179073299)
+[20:54:11] [Server thread/INFO]: KaijuCandy joined the game
+[20:54:12] [Server thread/INFO]: <machew22> 2nd
+[20:54:46] [Server thread/INFO]: michael13162[/127.0.0.1:9481] logged in with entity id 1659 at (-555.5790095817822, 70.0, -162.8006311816426)
+[20:54:46] [Server thread/INFO]: michael13162 joined the game
+[21:15:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 1012718ms behind, skipping 20254 tick(s)
+[21:15:04] [Server thread/INFO]: letag lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:15:05] [Server thread/INFO]: letag left the game
+[21:15:06] [Server thread/INFO]: machew22 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:15:06] [Server thread/INFO]: machew22 left the game
+[21:15:06] [Server thread/INFO]: KaijuCandy lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:15:07] [Server thread/INFO]: KaijuCandy left the game
+[21:15:07] [Server thread/INFO]: michael13162 lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[21:15:07] [Server thread/INFO]: michael13162 left the game
+[21:15:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3885ms behind, skipping 77 tick(s)
+[21:15:27] [Server thread/INFO]: Stopping the server
+[21:15:27] [Server thread/INFO]: Stopping server
+[21:15:27] [Server thread/INFO]: Saving players
+[21:15:27] [Server thread/INFO]: Saving worlds
+[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Overworld
+[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Nether
+[21:15:27] [Server thread/INFO]: Saving chunks for level 'Fall2016'/The End
+[21:15:27] [Server Shutdown Thread/INFO]: Stopping server
