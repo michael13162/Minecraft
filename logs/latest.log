@@ -1,236 +1,97 @@
-[21:31:58] [Server thread/INFO]: Starting minecraft server version 1.11
-[21:31:58] [Server thread/INFO]: Loading properties
-[21:31:58] [Server thread/INFO]: Default game type: SURVIVAL
-[21:31:58] [Server thread/INFO]: Generating keypair
-[21:31:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:31:58] [Server thread/INFO]: Using default channel type
-[21:31:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:31:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:31:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:31:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:31:58] [Server thread/INFO]: Preparing level "Fall2016"
-[21:31:59] [Server thread/INFO]: Preparing start region for level 0
-[21:32:00] [Server thread/INFO]: Preparing spawn area: 8%
-[21:32:01] [Server thread/INFO]: Preparing spawn area: 95%
-[21:32:01] [Server thread/INFO]: Done (2.532s)! For help, type "help" or "?"
-[21:32:37] [Server thread/INFO]: machew22[/155.99.150.163:52861] logged in with entity id 72 at (-566.1060415990801, 63.0, -192.38468802034825)
-[21:32:37] [Server thread/INFO]: machew22 joined the game
-[21:32:51] [Server thread/INFO]: machew22 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:32:51] [Server thread/INFO]: machew22 left the game
-[21:32:59] [Server thread/INFO]: machew22[/155.99.150.163:52869] logged in with entity id 429 at (-566.1060415990801, 63.0, -192.38468802034825)
-[21:32:59] [Server thread/INFO]: machew22 joined the game
-[21:33:01] [Server thread/INFO]: KaijuCandy[/155.99.230.60:61696] logged in with entity id 557 at (-567.8901317934367, 62.07326432466507, -627.3595936789864)
-[21:33:01] [Server thread/INFO]: KaijuCandy joined the game
-[21:33:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2435ms behind, skipping 48 tick(s)
-[21:33:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4465ms behind, skipping 89 tick(s)
-[21:33:30] [Server thread/INFO]: michael13162[/127.0.0.1:1980] logged in with entity id 1892 at (-553.4340034243332, 70.0, -157.66530596017608)
-[21:33:30] [Server thread/INFO]: michael13162 joined the game
-[21:33:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6419ms behind, skipping 128 tick(s)
-[21:33:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7344ms behind, skipping 146 tick(s)
-[21:34:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2834ms behind, skipping 56 tick(s)
-[21:34:08] [Server thread/WARN]: Boat moved wrongly!
-[21:34:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3293ms behind, skipping 65 tick(s)
-[21:34:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2073ms behind, skipping 41 tick(s)
-[21:34:58] [Server thread/INFO]: machew22 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:34:58] [Server thread/INFO]: machew22 left the game
-[21:34:58] [Server thread/INFO]: KaijuCandy lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[21:34:58] [Server thread/INFO]: KaijuCandy left the game
-[21:36:52] [Server thread/INFO]: machew22[/155.99.150.163:52901] logged in with entity id 8848 at (-555.9592919437638, 70.0, -156.70713056010698)
-[21:36:52] [Server thread/INFO]: machew22 joined the game
-[21:36:59] [Server thread/INFO]: KaijuCandy[/155.99.230.60:61707] logged in with entity id 9072 at (-396.30000001192093, 62.0, -610.5373072686842)
-[21:36:59] [Server thread/INFO]: KaijuCandy joined the game
-[21:37:42] [Server thread/WARN]: machew22 moved too quickly! 3.767077000725635,0.0,9.408021081616766
-[21:38:45] [Server thread/WARN]: machew22 moved wrongly!
-[21:39:53] [Server thread/WARN]: KaijuCandy moved wrongly!
-[21:42:17] [Server thread/WARN]: machew22 moved wrongly!
-[21:42:53] [Server thread/WARN]: machew22 moved wrongly!
-[21:43:05] [Server thread/WARN]: machew22 moved wrongly!
-[21:43:36] [Server thread/WARN]: machew22 moved wrongly!
-[21:43:43] [Server thread/WARN]: machew22 moved wrongly!
-[21:44:27] [Server thread/WARN]: machew22 moved wrongly!
-[21:44:56] [Server thread/WARN]: machew22 moved wrongly!
-[21:45:05] [Server thread/WARN]: machew22 moved wrongly!
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -5.295448930659063,0.0,-8.565784032217039
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -5.6233443194142865,0.0,-8.61610813138634
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -5.957382771779521,0.0,-8.652220936974118
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -6.297239779030178,0.0,-8.676873718724096
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -6.642665669674898,0.0,-8.693108560319956
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -6.9933917697760535,0.0,-8.70417723498042
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -7.349039811687248,0.0,-8.713479460055055
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -7.709076168431466,0.0,-8.723787356535809
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -8.072880955586925,0.0,-8.73732848208681
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -8.439797922074376,0.0,-8.755866033918892
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -8.809171688942229,0.0,-8.78075923373001
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -9.180371761056563,0.0,-8.813031049339315
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -9.55280866889575,0.0,-8.853422567621351
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -9.925944331290339,0.0,-8.902438668189006
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -10.299297254267117,0.0,-8.960389203280783
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -10.672445142472725,0.0,-9.02742229339026
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -11.045021598189464,0.0,-9.103561085467504
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -11.416716693200215,0.0,-9.188722256375627
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -11.787272938613341,0.0,-9.282739437647592
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -12.156478349646818,0.0,-9.38538729103766
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -12.524165810496584,0.0,-9.496389053942039
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -12.890206534802473,0.0,-9.615433358757741
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -13.254159531110759,0.0,-9.742787612812776
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -13.615285888221479,0.0,-9.879158326522202
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -13.97254629498002,0.0,-10.02555946689506
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -14.324600752691481,0.0,-10.183176308503562
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -14.669799032870174,0.0,-10.353250577182393
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -15.006717458675666,0.0,-10.53650786600906
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -15.334167527279988,0.0,-10.733270574321068
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -15.651190957445124,0.0,-10.9435517353063
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -15.957053116377665,0.0,-11.167127711267426
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -16.2512221133303,0.0,-11.403603028898715
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -16.53334633305917,0.0,-11.652461477894121
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -16.803236059954315,0.0,-11.913104302660486
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -17.060839822590765,0.0,-12.184882589278686
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -17.306220162708428,0.0,-12.467122789060454
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -17.539544169180886,0.0,-12.7591416841002
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -17.76105537753108,0.0,-13.060264017420536
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -17.971065489170996,0.0,-13.369830261321567
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -18.16993508719588,0.0,-13.687205456639163
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -18.358063005679696,0.0,-14.011783640227463
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -18.53588005799213,0.0,-14.342990019201238
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -18.703835578487315,0.0,-14.680283795747755
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -18.86238875917718,0.0,-15.02315900327335
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.012008205064035,0.0,-15.371143273356097
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.15316007913782,0.0,-15.723798376307059
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.286304859705297,0.0,-16.080718848754714
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.412584122698604,0.0,-16.441423980476202
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.53299457001401,0.0,-16.805483382357806
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.648398840988648,0.0,-17.172513358717083
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.759546572268505,0.0,-17.542171548780175
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.867085779571312,0.0,-17.914153299829195
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.97158062263304,0.0,-18.288186868215917
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.073516081350817,0.0,-18.664031178985624
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.17330968986255,0.0,-19.041472297071095
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.271322079058223,0.0,-19.420320161960262
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.35953322699754,0.0,-19.761283231328093
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.440064551828982,0.0,-20.073017988238348
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.51385781606598,0.0,-20.35840322099216
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.581825132283257,0.0,-20.62000250281153
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.644841613947165,0.0,-20.860088639960168
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.703738319598983,0.0,-21.08066498261269
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.759295278867626,0.0,-21.283484601377154
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.81223329479485,0.0,-21.470068915674574
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.85987750786728,0.0,-21.637994794093743
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -20.93106596387645,0.0,-21.817387933568398
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.02528825666502,0.0,-22.005125125149448
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.141781940398232,0.0,-22.198491751671668
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.250698660706803,0.0,-22.375422657816785
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.352842308644995,0.0,-22.537495449272342
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.448881747775204,0.0,-22.68620816635962
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.535317240702625,0.0,-22.820049608192562
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.613109182276503,0.0,-22.940506902651236
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.68312192783833,0.0,-23.04891846479211
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.74613339717473,0.0,-23.146488868134156
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.80284371807511,0.0,-23.23430222881575
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.853883005533476,0.0,-23.313334251335505
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.899818363029112,0.0,-23.384463069719004
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.941160183679926,0.0,-23.4484790045683
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -21.982379285119578,0.0,-23.509077997866257
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.023383454192413,0.0,-23.566737269212126
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.064039231156016,0.0,-23.621935502638507
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.104173427335922,0.0,-23.675140961079933
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.14357456226128,0.0,-23.72679936423833
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.20270308404031,0.0,-23.80553861981798
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.277130409904885,0.0,-23.910316565675657
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.36301482401609,0.0,-24.03987003433872
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.457058576675422,0.0,-24.19279323895489
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.556458012993858,0.0,-24.367601268669887
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.65885010655802,0.0,-24.562780145238776
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.76226526546577,0.0,-24.7768229109264
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.865076712411792,0.0,-25.008257979995278
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -22.965962737768677,0.0,-25.255667074078247
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.06386297222184,0.0,-25.51769957587419
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.157941011203434,0.0,-25.79308112613694
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.242611244043815,0.0,-26.040924514807784
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.319403185808255,0.0,-26.268948776952243
-[21:54:43] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.389165077020493,0.0,-26.47912828943322
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.452740808318367,0.0,-26.67322703621744
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.510960731155023,0.0,-26.85281452213667
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.564633915664785,0.0,-27.019277893159483
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.61454092406757,0.0,-27.173831624137733
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.661425427964787,0.0,-27.317526302505257
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.705987337251486,0.0,-27.451256361776814
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.74887369527778,0.0,-27.57576889456402
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.790671092297885,0.0,-27.691672315377104
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.83189640379635,0.0,-27.799447301757255
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.872989082227377,0.0,-27.899458207547013
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.914303656828906,0.0,-27.99196622123509
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.956102677282956,0.0,-28.077145259952204
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -23.998552126236632,0.0,-28.155097863834612
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.041718319682673,0.0,-28.225872967566488
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.085567148050814,0.0,-28.289484277105203
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.12996583604911,0.0,-28.345929279940037
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.17468755145694,0.0,-28.395208331143863
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.219418839675882,0.0,-28.43734273158293
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.26376960891332,0.0,-28.4723913165991
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.307286310592758,0.0,-28.500466220754333
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.346451341066768,0.0,-28.525733633824643
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.38169986755952,0.0,-28.548474304985575
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.41342354056269,0.0,-28.56894090848823
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.441974845509094,0.0,-28.587360851152653
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.467671019280147,0.0,-28.60393879911146
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.490797575061492,0.0,-28.618858951879133
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.51208438332003,0.0,-28.627309503732135
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -24.5315486354516,0.0,-28.62992438012543
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.57512586673613,0.0,-20.128412691116296
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.591383233496117,0.0,-20.121043499308826
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.606401806069016,0.0,-20.109426222194315
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.6204948765793,0.0,-20.094004002886663
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.63401124190966,0.0,-20.075193816066758
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.64617597038466,0.0,-20.058264648377303
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.657124225722214,0.0,-20.04302839786044
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.666977655264986,0.0,-20.029315772758537
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.67584574161856,0.0,-20.01697441049373
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.68382701912526,0.0,-20.005867184749718
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.691010168691037,0.0,-19.99587068184485
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.697475003128943,0.0,-19.986873829468777
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.703293353969002,0.0,-19.978776662544874
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.7085298695863,0.0,-19.971489212506413
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.713242733517063,0.0,-19.96493050764559
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.717484310942382,0.0,-19.95902767342716
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.723780389444187,0.0,-19.94937274465417
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.732123872646298,0.0,-19.93646032409731
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.74255461001792,0.0,-19.92078153130558
-[21:54:44] [Server thread/WARN]: Boat (vehicle of KaijuCandy) moved too quickly! -19.755143422342144,0.0,-19.9028297011439
-[21:58:07] [Server thread/INFO]: KaijuCandy was slain by Husk
-[21:59:53] [Server thread/WARN]: michael13162 moved wrongly!
-[22:01:37] [Server thread/WARN]: Fetching addPacket for removed entity
-[22:05:23] [Server thread/INFO]: KaijuCandy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:05:23] [Server thread/INFO]: KaijuCandy left the game
-[22:05:25] [Server thread/INFO]: KaijuCandy[/155.99.230.60:61906] logged in with entity id 62722 at (-558.8578898672938, 70.0, -160.914258247254)
-[22:05:25] [Server thread/INFO]: KaijuCandy joined the game
-[22:06:46] [Server thread/INFO]: machew22 has just earned the achievement [We Need to Go Deeper]
-[22:06:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2791ms behind, skipping 55 tick(s)
-[22:07:20] [Server thread/WARN]: michael13162 moved too quickly! 447.4751106042561,-51.0,171.6217560380111
-[22:07:46] [Server thread/INFO]: KaijuCandy has just earned the achievement [We Need to Go Deeper]
-[22:07:47] [Server thread/WARN]: KaijuCandy moved too quickly! 446.9922719293532,-51.0,171.65267298192754
-[22:14:27] [Server thread/INFO]: KaijuCandy was slain by Zombie Pigman
-[22:15:46] [Server thread/WARN]: KaijuCandy moved too quickly! 447.23052592380475,-51.0,171.8410038623773
-[22:16:46] [Server thread/INFO]: machew22 has just earned the achievement [Into Fire]
-[22:17:55] [Server thread/WARN]: michael13162 moved wrongly!
-[22:19:07] [Server thread/WARN]: KaijuCandy moved too quickly! -10.131478034569504,0.0,0.0
-[22:19:08] [Server thread/WARN]: machew22 moved too quickly! -10.069251148819546,0.0,1.2305061727376483
-[22:21:29] [Server thread/WARN]: KaijuCandy moved too quickly! -9.002222718675554,-1.7663679939575232,4.058665515242254
-[22:22:34] [Server thread/WARN]: michael13162 moved too quickly! -447.68323256388595,51.0,-171.21857604037797
-[22:22:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2061ms behind, skipping 41 tick(s)
-[22:22:39] [Server thread/WARN]: KaijuCandy moved too quickly! -447.54014037305274,51.0,-171.36064081074613
-[22:27:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2444ms behind, skipping 48 tick(s)
-[22:32:41] [Server thread/WARN]: KaijuCandy moved too quickly! 0.10862221522256732,0.0,10.142553270016492
-[22:33:14] [Server thread/INFO]: machew22 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:33:14] [Server thread/INFO]: machew22 left the game
-[22:33:41] [Server thread/INFO]: KaijuCandy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:33:41] [Server thread/INFO]: KaijuCandy left the game
-[22:35:38] [Server thread/INFO]: michael13162 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[22:35:38] [Server thread/INFO]: michael13162 left the game
-[22:35:42] [Server thread/INFO]: Stopping the server
-[22:35:42] [Server thread/INFO]: Stopping server
-[22:35:42] [Server thread/INFO]: Saving players
-[22:35:42] [Server thread/INFO]: Saving worlds
-[22:35:42] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Overworld
-[22:35:42] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Nether
-[22:35:42] [Server thread/INFO]: Saving chunks for level 'Fall2016'/The End
-[22:35:42] [Server Shutdown Thread/INFO]: Stopping server
+[12:27:38] [Server thread/INFO]: Starting minecraft server version 1.11
+[12:27:38] [Server thread/INFO]: Loading properties
+[12:27:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:27:38] [Server thread/INFO]: Generating keypair
+[12:27:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:27:39] [Server thread/INFO]: Using default channel type
+[12:27:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:27:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:27:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:27:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:27:39] [Server thread/INFO]: Preparing level "Fall2016"
+[12:27:40] [Server thread/INFO]: Preparing start region for level 0
+[12:27:41] [Server thread/INFO]: Preparing spawn area: 0%
+[12:27:42] [Server thread/INFO]: Preparing spawn area: 52%
+[12:27:43] [Server thread/INFO]: Preparing spawn area: 80%
+[12:27:43] [Server thread/INFO]: Done (3.864s)! For help, type "help" or "?"
+[12:28:05] [Server thread/INFO]: michael13162[/127.0.0.1:33538] logged in with entity id 71 at (-551.5520829973318, 70.0, -161.32961870484178)
+[12:28:05] [Server thread/INFO]: michael13162 joined the game
+[12:28:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5874ms behind, skipping 117 tick(s)
+[12:29:47] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53656] logged in with entity id 1579 at (-168.5, 66.0, 16.5)
+[12:29:47] [Server thread/INFO]: nicholasz2510 joined the game
+[12:30:41] [Server thread/INFO]: nicholasz2510 was blown up by Creeper
+[12:32:05] [Server thread/INFO]: nicholasz2510 fell from a high place
+[12:35:12] [Server thread/WARN]: nicholasz2510 moved too quickly! -9.384364122494844,0.0,-4.06958925981499
+[12:36:06] [Server thread/WARN]: nicholasz2510 moved too quickly! 2.5796965256228646,-0.7879163594487864,-9.646942499111859
+[12:36:13] [Server thread/WARN]: nicholasz2510 moved too quickly! 2.0965529595662247,0.0,9.849801840594779
+[12:36:39] [Server thread/WARN]: nicholasz2510 moved too quickly! -9.31273126793684,0.0,-3.903634299233346
+[12:36:50] [Server thread/WARN]: nicholasz2510 moved too quickly! -9.454787239382085,0.0,-3.5580795074549485
+[12:36:54] [Server thread/WARN]: nicholasz2510 moved too quickly! -8.517883756100673,0.0,-5.309982571266758
+[12:37:18] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:37:18] [Server thread/INFO]: nicholasz2510 left the game
+[12:37:23] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53799] logged in with entity id 19047 at (-552.6240333243287, 96.53584062504456, -124.86874504889907)
+[12:37:23] [Server thread/INFO]: nicholasz2510 joined the game
+[12:38:17] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:38:17] [Server thread/INFO]: nicholasz2510 left the game
+[12:38:19] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53817] logged in with entity id 20887 at (-553.7512751498771, 95.92159999847412, -132.60402802986687)
+[12:38:19] [Server thread/INFO]: nicholasz2510 joined the game
+[12:38:29] [Server thread/WARN]: nicholasz2510 moved too quickly! 0.24958643482727894,-1.0,-10.20476824026315
+[12:39:46] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:39:46] [Server thread/INFO]: nicholasz2510 left the game
+[12:41:00] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53862] logged in with entity id 23961 at (-560.7712270091663, 69.0, -158.3588149656092)
+[12:41:00] [Server thread/INFO]: nicholasz2510 joined the game
+[12:41:50] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:41:50] [Server thread/INFO]: nicholasz2510 left the game
+[12:41:55] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53885] logged in with entity id 25488 at (-553.684155606479, 70.0, -157.01999160796484)
+[12:41:55] [Server thread/INFO]: nicholasz2510 joined the game
+[12:42:30] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:42:30] [Server thread/INFO]: nicholasz2510 left the game
+[12:43:57] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53967] logged in with entity id 27950 at (-553.684155606479, 70.0, -157.01999160796484)
+[12:43:57] [Server thread/INFO]: nicholasz2510 joined the game
+[12:44:03] [Server thread/INFO]: Usage: /locate <feature>
+[12:44:12] [Server thread/INFO]: Located Stronghold at 1464 (y?) 88
+[12:44:26] [Server thread/INFO]: nicholasz2510 was slain by michael13162
+[12:44:29] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:44:29] [Server thread/INFO]: nicholasz2510 left the game
+[12:44:36] [Server thread/INFO]: nicholasz2510[/192.168.1.150:53986] logged in with entity id 28537 at (-553.684155606479, 70.0, -157.01999160796484)
+[12:44:36] [Server thread/INFO]: nicholasz2510 joined the game
+[12:45:02] [Server thread/INFO]: nicholasz2510 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:45:02] [Server thread/INFO]: nicholasz2510 left the game
+[12:45:06] [Server thread/INFO]: nicholasz2510[/192.168.1.150:54014] logged in with entity id 29289 at (-163.5, 66.0, 15.5)
+[12:45:06] [Server thread/INFO]: nicholasz2510 joined the game
+[12:45:22] [Server thread/INFO]: michael13162 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:45:22] [Server thread/INFO]: michael13162 left the game
+[12:45:34] [Server thread/INFO]: nicholasz2510 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:45:34] [Server thread/INFO]: nicholasz2510 left the game
+[12:45:40] [Server thread/INFO]: nicholasz2510[/192.168.1.150:54036] logged in with entity id 30065 at (-169.025154654148, 64.0, 10.777008255419883)
+[12:45:40] [Server thread/INFO]: nicholasz2510 joined the game
+[12:46:13] [Server thread/INFO]: nicholasz2510 was blown up by Creeper
+[12:46:23] [Server thread/INFO]: nicholasz2510 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:46:23] [Server thread/INFO]: nicholasz2510 left the game
+[12:46:27] [Server thread/INFO]: nicholasz2510[/192.168.1.150:54053] logged in with entity id 30674 at (-197.61878623950776, 70.0, -46.912038790283205)
+[12:46:27] [Server thread/INFO]: nicholasz2510 joined the game
+[12:46:49] [Server thread/INFO]: nicholasz2510 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[12:46:49] [Server thread/INFO]: nicholasz2510 left the game
+[12:47:00] [Server thread/INFO]: michael13162[/127.0.0.1:33587] logged in with entity id 30760 at (-558.4368160454982, 70.0, -159.33267528276772)
+[12:47:00] [Server thread/INFO]: michael13162 joined the game
+[12:50:57] [Server thread/INFO]: Located Stronghold at 1464 (y?) 88
+[13:01:13] [Server thread/INFO]: michael13162 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:01:13] [Server thread/INFO]: michael13162 left the game
+[13:01:37] [Server thread/INFO]: nicholasz2510[/192.168.1.150:54605] logged in with entity id 44365 at (-197.61878623950776, 68.0, -46.912038790283205)
+[13:01:37] [Server thread/INFO]: nicholasz2510 joined the game
+[13:02:01] [Server thread/INFO]: nicholasz2510 tried to swim in lava
+[13:04:24] [Server thread/INFO]: nicholasz2510 was shot by Skeleton
+[13:05:27] [Server thread/WARN]: nicholasz2510 moved too quickly! 5.261003551803611,-5.0,-6.969510705840605
+[13:06:11] [Server thread/WARN]: nicholasz2510 moved too quickly! -3.395659659854516,-1.0,9.60358788850084
+[13:06:22] [Server thread/INFO]: nicholasz2510 was shot by Skeleton
+[13:06:35] [Server thread/INFO]: nicholasz2510 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:06:35] [Server thread/INFO]: nicholasz2510 left the game
+[13:06:39] [Server thread/INFO]: nicholasz2510[/192.168.1.150:54731] logged in with entity id 50884 at (-318.9485781074702, 66.06175577385784, -180.24171141722482)
+[13:06:39] [Server thread/INFO]: nicholasz2510 joined the game
+[13:06:56] [Server thread/INFO]: michael13162[/127.0.0.1:33750] logged in with entity id 51750 at (971.1153596494057, 64.0, 105.43619494780066)
+[13:06:56] [Server thread/INFO]: michael13162 joined the game
+[13:07:03] [Server thread/INFO]: nicholasz2510 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:07:03] [Server thread/INFO]: nicholasz2510 left the game
+[13:07:23] [Server thread/INFO]: /127.0.0.1:33748 lost connection: Disconnected
+[13:19:02] [Server thread/INFO]: michael13162 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[13:19:02] [Server thread/INFO]: michael13162 left the game
