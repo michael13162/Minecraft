@@ -95,3 +95,12 @@
 [13:07:23] [Server thread/INFO]: /127.0.0.1:33748 lost connection: Disconnected
 [13:19:02] [Server thread/INFO]: michael13162 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [13:19:02] [Server thread/INFO]: michael13162 left the game
+[13:20:46] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[13:20:48] [Server thread/INFO]: Stopping the server
+[13:20:48] [Server thread/INFO]: Stopping server
+[13:20:48] [Server thread/INFO]: Saving players
+[13:20:48] [Server thread/INFO]: Saving worlds
+[13:20:48] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Overworld
+[13:20:48] [Server thread/INFO]: Saving chunks for level 'Fall2016'/Nether
+[13:20:48] [Server thread/INFO]: Saving chunks for level 'Fall2016'/The End
+[13:20:48] [Server Shutdown Thread/INFO]: Stopping server
